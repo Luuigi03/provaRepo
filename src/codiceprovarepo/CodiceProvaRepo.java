@@ -21,7 +21,12 @@ public class CodiceProvaRepo {
         
         
         
-        
+        int a1=10;
+        int a2=10;
+        int a3=10;
+        int a6=10;
+        int a4=10;
+        int a5=10;
         
         
         int a=10;
